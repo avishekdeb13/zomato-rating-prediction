@@ -6,3 +6,6 @@ Algorithms used: Linear Rgression, SVM, Naive Byaes, Decision Tree, Random Fores
 Best result delivered by : Ada Boost model
 Model deployed on heroku link: https://zomatoratingpredictionapp.herokuapp.com/
 Model deployed on AWS cloud service : http://final-env.eba-32ay2fmg.us-east-2.elasticbeanstalk.com/
+
+
+The dataset can be downloaded from the following link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
